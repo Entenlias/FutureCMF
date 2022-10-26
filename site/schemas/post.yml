@@ -1,0 +1,8 @@
+name: Post
+fields:
+  title:
+    type: text
+    required: true
+  text:
+    type: text
+    required: true
